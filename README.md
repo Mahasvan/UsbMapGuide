@@ -13,7 +13,8 @@
 
 #### Part 1 - Discovering Ports
 This image is something like what you would see when you open USBMap for the first time.
-![image](https://user-images.githubusercontent.com/82939599/121544931-b38f9980-ca27-11eb-9dae-31b364009fce.png)
+
+![Screenshot 2021-06-10 at 8 57 10 PM](https://user-images.githubusercontent.com/82939599/121552900-737fe500-ca2e-11eb-86f4-a78b911a6984.png)
 
 I know it looks complicated, but trust me, it's not.
 
@@ -23,7 +24,8 @@ Plug in only the very minimal usb devices you need. I’d recommend starting wit
 Type `D` to go to the Discovering Ports section of the script.
 
 This picture is what you would see, except you'll have a different list of ports, and possibly a larger list.
-![image](https://user-images.githubusercontent.com/82939599/121545505-39134980-ca28-11eb-81fe-99a943960a55.png)
+
+![Screenshot 2021-06-10 at 8 58 11 PM](https://user-images.githubusercontent.com/82939599/121553070-9611fe00-ca2e-11eb-8883-016a3d08f7d7.png)
 
 The devices shown in blue are what are currently connected to my usb ports.
 I have a Bluetooth card and a webcam, so I see two devices already.
@@ -43,20 +45,19 @@ Do this process again and again until all your ports have been discovered.
 
 Now that you have succesfully discovered all your ports, your screen should look something like this
 
-![image](https://user-images.githubusercontent.com/82939599/121547014-644a6880-ca29-11eb-8844-f44213501ddf.png)
-
+![Screenshot 2021-06-10 at 8 58 02 PM](https://user-images.githubusercontent.com/82939599/121553165-acb85500-ca2e-11eb-8c6a-b47f1669219e.png)
 
 These are all the ports on my laptop, with proper nicknames
 
 Now you can press Q to exit, and you should see the title screen again, but now the option Edit and create USBMap.kext is not in red. Which means that we can get to the fun part.
 
-![image](https://user-images.githubusercontent.com/82939599/121546968-5bf22d80-ca29-11eb-8467-de2d4a8c2b5f.png)
+![Screenshot 2021-06-10 at 8 59 24 PM](https://user-images.githubusercontent.com/82939599/121553331-ceb1d780-ca2e-11eb-8c3a-c675bfcc2460.png)
 
 #### Part 2: Editing and creating USBMap.kext
 
 Let’s take a look at this table before we move on, because this will be useful when assigning port types.
 
-![image](https://user-images.githubusercontent.com/82939599/121547809-1aae4d80-ca2a-11eb-8a6e-eb674490d9a9.png)
+![Screenshot 2021-06-10 at 9 00 28 PM](https://user-images.githubusercontent.com/82939599/121553507-f3a64a80-ca2e-11eb-87f2-43a0e6bce6aa.png)
 
 [Source](https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html)
 
