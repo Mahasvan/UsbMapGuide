@@ -110,7 +110,7 @@ For some users, you might get this warning.
 
 ![Screenshot 2021-06-10 at 8 40 03 PM](https://user-images.githubusercontent.com/82939599/121550203-2864d280-ca2c-11eb-96c5-6c8f975612b3.png)
 
-I tend to select `i` for ignore, but it doesn't really matter.
+I tend to select `i` for ignore, but if you know what you're doing, take your pick!
 
 After entering your selection, a new finder window opens, which points you to the USBMap.kext. That’s your trophy, copy it over to your desktop or someplace you can access.
 
