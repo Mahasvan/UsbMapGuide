@@ -14,7 +14,7 @@
 #### Part 1 - Discovering Ports
 This image is something like what you would see when you open USBMap for the first time.
 
-![Screenshot 2021-06-10 at 8 57 10 PM](https://user-images.githubusercontent.com/82939599/121552900-737fe500-ca2e-11eb-86f4-a78b911a6984.png)
+![Screenshot 2021-06-11 at 9 56 05 AM](https://user-images.githubusercontent.com/82939599/121630689-43226000-ca9b-11eb-92e4-3acc3157e69a.png)
 
 I know it looks complicated, but trust me, it's not.
 
