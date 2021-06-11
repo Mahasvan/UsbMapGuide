@@ -25,7 +25,7 @@ Type `D` to go to the Discovering Ports section of the script.
 
 This picture is what you would see, except you'll have a different list of ports, and possibly a larger list.
 
-![Screenshot 2021-06-10 at 8 58 11 PM](https://user-images.githubusercontent.com/82939599/121553070-9611fe00-ca2e-11eb-8883-016a3d08f7d7.png)
+![Screenshot 2021-06-11 at 9 41 43 AM](https://user-images.githubusercontent.com/82939599/121629900-c0e56c00-ca99-11eb-8444-8d962636c1f0.png)
 
 The devices shown in blue are what are currently connected to my usb ports.
 I have a Bluetooth card and a webcam, so I see two devices already.
@@ -33,7 +33,7 @@ I have a Bluetooth card and a webcam, so I see two devices already.
 Wait for 5 seconds, and then plug in one device.
 in a few seconds, it should show up in green, and it should ask you to rename the port.
 
-![Screenshot 2021-06-10 at 8 23 25 PM](https://user-images.githubusercontent.com/82939599/121547495-d02cd100-ca29-11eb-85a3-ab5c2247fd24.png)
+![Screenshot 2021-06-11 at 9 41 59 AM](https://user-images.githubusercontent.com/82939599/121629916-c8a51080-ca99-11eb-8b3d-8c90db9d9fc1.png)
 
 Name the port with a clear name, as you are going to be assigning port types to them after the script recognizes all your USB ports, and you'll need to know what port it is.
 
