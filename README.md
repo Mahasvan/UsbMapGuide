@@ -90,7 +90,7 @@ The syntax for mapping ports is `T:[port_number]:[port_type]`
 
 `Port_type` is the “Type” value taken from the table I included in the start of this section.
 
-If I want to map `port 2` ie. My top left port, I would type in `T:2:0`	_(2 is my port number, 0 is the type value for usb2 ports)_
+If I want to map `port 2` ie. My top left port as a USB2 port, I would type in `T:2:0`	_(2 is my port number, 0 is the type value for usb2 ports)_
 
 If you want to assign a type to a series of ports, you can separate them with commas.
 
