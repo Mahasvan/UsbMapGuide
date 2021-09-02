@@ -1,6 +1,8 @@
 # UsbMapGuide
 ## The USB Mapping guide for Hackintoshes
 
+## Warning: This guide is probably outdated.
+
 ### Requirements:
 -	A working macOS installation
 -	UsbInjectAll.kext in the kexts folder
